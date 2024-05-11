@@ -19,7 +19,7 @@ This tool is compatible with Termux and supports bash, fish, and zsh shells.
 
 ## How to Use
 
-To Know How to Use This Tool Watch My Video on YouTube. [vide](https://youtube.com/shorts/KQMo4-2YXUs?si=6jNfWCLjLgqxy3cE)
+To Know How to Use This Tool Watch My Video on YouTube. [video](https://youtube.com/shorts/KQMo4-2YXUs?si=6jNfWCLjLgqxy3cE)
 
 ## Contact
 
