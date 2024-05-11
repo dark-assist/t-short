@@ -11,7 +11,7 @@ To install the tool, follow these steps:
 1. Clone the repository: `git clone https://github.com/dark-assist/t-short`
 2. Navigate to the cloned directory: `cd t-short`
 3. Run the installation script: `bash setup.sh`
-4. Now you can use `t-short` anywhere in terminal to use this tool.
+4. Now you can run `t-short` anywhere in terminal to use this tool.
 
 ## Compatibility
 
