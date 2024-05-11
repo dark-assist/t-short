@@ -19,8 +19,8 @@ This tool is compatible with Termux and supports bash, fish, and zsh shells.
 
 ## How to Use
 
-To Know How to Use This Tool Watch My Video on YouTube. [vide] (https://youtube.com/shorts/KQMo4-2YXUs?si=6jNfWCLjLgqxy3cE)
+To Know How to Use This Tool Watch My Video on YouTube. [vide](https://youtube.com/shorts/KQMo4-2YXUs?si=6jNfWCLjLgqxy3cE)
 
 ## Contact
 
-If you have any questions or feedback, feel free to contact me at [Telegram] (https://t.me/sanatani_chat_group)
+If you have any questions or feedback, feel free to contact me at [Telegram](https://t.me/sanatani_chat_group)
